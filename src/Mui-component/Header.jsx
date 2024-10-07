@@ -34,8 +34,8 @@ const Header = () => {
                             
                         </Box>
                         <Box>
-                        <Button color="success">Login</Button>
-                        <Button variant="contained" color="success">Signup</Button>
+                        <Button sx={{color:"#4caf4f"}}>Login</Button>
+                        <Button variant="contained" sx={{backgroundColor:"#4caf4f"}}>Signup</Button>
                         </Box>
 
                     </Toolbar>
